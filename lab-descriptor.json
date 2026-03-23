@@ -15,14 +15,14 @@
     "name": "To determine the compressive strength of standard cement mortar cubes",
     "short-name": "cement-mortar-cubes",
     "repo": "https://github.com/virtual-labs/exp-cement-mortar-cubes-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "To determine the tensile strength of standard cement mortar briquettes",
     "short-name": "tensile-strength",
     "repo": "https://github.com/virtual-labs/exp-tensile-strength-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -50,14 +50,14 @@
     "name": "To determine the soundness of the fine and coarse aggregate",
     "short-name": "soundness-aggregate",
     "repo": "https://github.com/virtual-labs/exp-fine-coarse-aggregate-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "To determine bulking of a given sample of fine aggregate",
     "short-name": "bulking-fine-aggregate",
     "repo": "https://github.com/virtual-labs/exp-bulking-given-sample-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
